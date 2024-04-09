@@ -3,7 +3,9 @@ Brand Guides and Assets
 
 ## Overview
 
-This repository contains the current Kubuntu Brand assets, and Guidance for their use. The portfolio includes :-
+This repository contains the current Kubuntu Brand assets, and Guidance for their use.
+
+The portfolio includes :-
  - Style Guides
  - Colour Pallette
  - Font selections
