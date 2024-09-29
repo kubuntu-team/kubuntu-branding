@@ -15,10 +15,10 @@ The portfolio includes :-
 
 ## Directory Structure
 
- .Assets
- ....Logo
- ....Wallpapers
- ........Contest_24.04
+  - Assets
+   - Logo
+   - Wallpapers
+    - Contest_24.04
  ............Dilip
  ............Gregorio
  ............Jack_Sharp
